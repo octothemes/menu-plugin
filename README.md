@@ -1,6 +1,8 @@
 # Octopress Menu Plugin
 
-The menu plugin adds a dropdown menu to your Octopress blog. The current menu bar is one dimensional and is limited by its length. The menu bar plugin provides a way to fit more menu items. This plugin makes use of Jquery UI's menu widget with some custom CSS to fit with Octopress.
+The menu plugin adds a dropdown menu to your Octopress blog. The current menu bar is one dimensional and is limited by its length. The menu bar plugin provides a way to fit more menu items. This plugin makes use of [Jquery UI's menu widget](http://jqueryui.com/menu/‎) with some custom CSS to fit with Octopress.
+
+The demo is at [here](http://octothemes.github.io/menu-plugin-demo).
 
 ## Installation
 
@@ -16,7 +18,7 @@ The file is called __jquery-ui-1.10.3.custom.min.js__. Copy this file to __sourc
 
 #### Menu
 
-The file is called __menu.js__. Copy this file to __source/javascripts/__.
+The file is called __menu.min.js__. Copy this file to __source/javascripts/__.
 
 #### Adding to head
 
