@@ -35,6 +35,12 @@ Make sure these are included after the jquery is included.
 
 There is a SCSS file located under __css/_menu.scss__. Copy that file to __sass/custom/__.
 
+Under __sass/screen.scss__, add the following line
+
+``` scss
+@import "custom/menu";
+```
+
 ### Add the menu entries
 
 You need add the menu items. From __source/_includes/custom/navigation.html__, add the following snippet.
